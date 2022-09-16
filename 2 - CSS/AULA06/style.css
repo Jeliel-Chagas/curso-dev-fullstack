@@ -1,0 +1,14 @@
+body {
+    background:rgb(197, 195, 195);
+}
+
+p {
+    color:#1b1919;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #2a0202;; /*shortand*/
+    border-radius: 50%;
+    margin:30px;
+}
